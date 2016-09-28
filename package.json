@@ -1,0 +1,19 @@
+{
+  "name": "colourfun",
+  "version": "1.0.0",
+  "description": "colours in the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fun",
+    "colours",
+    "yay"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
